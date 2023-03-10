@@ -43,7 +43,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ---
 ## A
 
-- [Aaron Schlesiner](#aaron-schlesinger) - **streaming** Go/Golang, Python, Javascript, Kubernetes, Helm, Cloud Native
+- [Aaron Schlesiner](#arschles) - **streaming** Go/Golang, Python, Javascript, Kubernetes, Helm, Cloud Native
 - [Adam13531](#adam13531) - **streaming:** Node.js, JavaScript, React, Full Stack Development, Game Development
 - [Adron Hall](#adron-hall) - **streaming:** Go/Golang, C#/dotnetcore, Node.js/JavaScript, Terraform/Infrastructure, System Hacks, Pair Programming, Heavy Metal, Systemic Development, IRL, and sometimes reports and tech news at conferences and such.
 - [Al Sweigart](#al-sweigart) - **streaming:** Python
@@ -137,6 +137,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Eralp Karaduman](#eralp-karaduman) - **streaming:** iOS, Swift, Flutter, Dart, React Native, React, TypeScript, JavaScript, C#, Unity3D, Pixel Art, Aseprite
 - [Erik St. Martin](#erik-st-martin) - **streaming** Rust, Go/Golang, Video Encoding, Kubernetes
 - [Eser Ozvataf](#eser-ozvataf) - **streaming:** JavaScript, C#, .NET Core, React, OSS, GitHub, Serverless, node.js, TypeScript, Functional Programming, DevOps
+- [Exxjob](#exxjob) - **streaming:** Kotlin, Solidity, Crystal, Rust, Flutter, Vlang
 
 [(top)](#table-of-contents)
 
@@ -329,6 +330,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Talk2MeGooseman (Erik Guzman)](#Talk2MeGooseman-erik-guzman) - **streaming:** JavaScript, Node.js, ReactJS, React Native, APIs, Web Development
 - [Tanya Janca](#tanya-janca) - **streaming** Web Security, Azure, Cloud Security
 - [Ted M. Young](#ted-m-young) - **streaming:** Java, Spring Boot, Spring MVC, Spring Data, Spring Cloud, TDD, JUnit, Web Development, Design Patterns, DDD, Hexagonal Architecture, IntelliJ IDEA
+- [TJ DeVries](#teej_dev) - **streaming:** Rust, Ruby, Nvim, Vim, Open Source, Memes
 - [tek256](#tek256) - **streaming:** Game Engine Development, C
 - [Theo](#theo) - **streaming:** JavaScript, TypeScript, Web Development
 - [ThePrimeagen](#theprimeagen) - **streaming:** Golang, JavaScript, ReactJS, Memes, Amazingness.
@@ -1450,6 +1452,20 @@ Presenters:-
 
 ---
 
+### Exxjob
+#### What Exxjob streams:
+- Kotlin, Solidity, Crystal, Rust, Flutter, Vlang
+#### Streaming on:
+- [Twitch](https://twitch.tv/exxjob)
+#### Links:
+- [Twitter](https://twitter.com/exxjob)
+- [GitHub](https://github.com/exxjob)
+- [Website](https://exxjob.co)
+
+[(top)](#table-of-contents)
+
+---
+
 ### Feross Aboukhadijeh
 #### What Feross streams:
 - JavaScript, Node.js, Frameworks, Developer Tooling, Web Development
@@ -1947,14 +1963,14 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - DevOps/SRE - Chef, Docker, Kubernetes
 - Ruby programming
 #### Streaming on:
-- [Twitch](https://www.twitch.tv/fullstacklive)
+- [Owncast (selfhosted)](https://watch.geewiz.dev)
 - [Youtube](https://www.youtube.com/channel/UCyYSXGM9OpT4VvoIcYQIYhA/live)
 #### Languages Spoken During Stream
 - English
 #### Links:
-- [Twitter](https://www.twitter.com/fullstacksensei)
+- [Mastodon](https://geekdom.social/@geewiz)
 - [Github](https://github.com/geewiz)
-- [Website](https://www.fullstacksensei.com)
+- [Website](https://www.geewiz.dev)
 
 [(top)](#table-of-contents)
 
@@ -3324,6 +3340,20 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 - [Website](https://ted.dev)
 - [Patreon](https://www.patreon.com/jitterted)
 - [GitHub](https://www.github.com/tedyoung)
+
+[(top)](#table-of-contents)
+
+---
+### teej_dev
+He is Neovim Core contributor, Creator of Neovim telescope plugin and contribute to many others. Lately spending most of time in Rust.
+#### What TJ DeVries (teej_dev) streams:
+- Rust, Ruby, Neovim, Vim, Open Source, Memes
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/teej_dv/)
+#### Links:
+- [Twitter](https://twitter.com/teej_dv)
+- [YouTube](https://www.youtube.com/@teej_dv)
+- [GitHub](https://github.com/tjdevries)
 
 [(top)](#table-of-contents)
 
